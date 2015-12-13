@@ -1,3 +1,0 @@
-jdbc:oracle:thin:@147.228.60.214:1521:dbgeom01
-st_jmalek
-q2v3bq2v3c
